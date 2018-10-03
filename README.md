@@ -1,0 +1,2 @@
+# -devlerim
+algoritma ödevlerim
